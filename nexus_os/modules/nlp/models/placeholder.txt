@@ -1,0 +1,2 @@
+This directory is for model-related configurations if needed in the future.
+Currently, models are accessed via the local API and not stored here.

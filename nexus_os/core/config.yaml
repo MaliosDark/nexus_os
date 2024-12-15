@@ -1,0 +1,17 @@
+ai_model:
+  name: "llama3.2:latest"
+  host: "http://localhost:11434"
+  max_tokens: 500
+  temperature: 0.7
+
+vision_model:
+  name: "llama3.2-vision:latest"
+  host: "http://localhost:11434"
+
+system:
+  log_level: "DEBUG"
+  command_timeout: 30
+
+data:
+  memory_db: "nexus_os/data/memory.db"
+  user_prefs: "nexus_os/data/user_prefs.yaml"
