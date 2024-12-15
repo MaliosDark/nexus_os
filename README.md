@@ -6,6 +6,8 @@
 
 ---
 
+![Nexus OS GUI](./nexus_os/bgchat/guigit.png)
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
