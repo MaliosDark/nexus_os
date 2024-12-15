@@ -4,6 +4,11 @@
 
 *By Andryu Schittone (Malios Dark)*
 
+
+*Visitor Counter*
+
+![Visitor Count](https://count.getloli.com/@MaliosDark_nexus_os?name=MaliosDark_nexus_os&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 ---
 
 ![Nexus OS GUI](./nexus_os/bgchat/guigit.png)
